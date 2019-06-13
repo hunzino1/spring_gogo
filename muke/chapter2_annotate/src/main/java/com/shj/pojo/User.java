@@ -1,18 +1,19 @@
 package com.shj.pojo;
 
-import org.springframework.context.annotation.Bean;
+import org.springframework.stereotype.Component;
 
 /**
  * @create 2019/6/13
  */
-public class TestBeanClass {
+@Component("user")
+public class User {
     private int id;
     private String name;
 
-    public TestBeanClass() {
+    public User() {
     }
 
-    public TestBeanClass(int id, String name) {
+    public User(int id, String name) {
         this.id = id;
         this.name = name;
     }
@@ -35,7 +36,7 @@ public class TestBeanClass {
 
     @Override
     public String toString() {
-        return "TestBeanClass{" +
+        return "User{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
