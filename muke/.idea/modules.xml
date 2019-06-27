@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter3_scope/chapter3_scope.iml" filepath="$PROJECT_DIR$/chapter3_scope/chapter3_scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/muke.iml" filepath="$PROJECT_DIR$/.idea/muke.iml" />
     </modules>
   </component>
