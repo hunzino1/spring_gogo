@@ -6,6 +6,11 @@ package com.shj.pojo;
 public class AutowiringBean {
     private InjectBean injectBean;
 
+    //Construor时必须有
+    public AutowiringBean(InjectBean injectBean) {
+        this.injectBean = injectBean;
+    }
+
     public void setInjectBean(InjectBean injectBean) {
         this.injectBean = injectBean;
     }
