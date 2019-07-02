@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/chapter3_autowiring/chapter3_autowiring.iml" filepath="$PROJECT_DIR$/chapter3_autowiring/chapter3_autowiring.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3_init_destory/chapter3_init_destory.iml" filepath="$PROJECT_DIR$/chapter3_init_destory/chapter3_init_destory.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter3_scope/chapter3_scope.iml" filepath="$PROJECT_DIR$/chapter3_scope/chapter3_scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3_test/chapter3_test.iml" filepath="$PROJECT_DIR$/chapter3_test/chapter3_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4_annotation/chapter4_annotation.iml" filepath="$PROJECT_DIR$/chapter4_annotation/chapter4_annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/muke.iml" filepath="$PROJECT_DIR$/.idea/muke.iml" />
     </modules>
   </component>
