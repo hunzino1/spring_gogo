@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/chapter3_aware/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/chapter3_aware/src/resource" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/chapter3_aware/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter4_autowired2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter4_autowired2/src/main/resource" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/chapter4_autowired2/src/test" isTestSource="true" />
     </content>
     <orderEntry type="jdk" jdkName="8.0" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
