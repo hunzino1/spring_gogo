@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="34bb1128-5901-48db-93a0-c76a309f87fd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/AutowiredCollectionBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/CollectionBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/SpringDefineBean.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,46 +21,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/resource/spring-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanClassOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+              <folding>
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/SpringDefineBean.java">
+        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/main/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="270">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/CollectionBean.java">
+        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+            <state relative-caret-position="216">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
               <folding>
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/AutowiredCollectionBean.java">
+        <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanClassTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="216">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +95,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -122,6 +149,12 @@
         <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/SpringDefineBean.java" />
         <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/CollectionBean.java" />
         <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/AutowiredCollectionBean.java" />
+        <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/resource/spring-context.xml" />
+        <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanInterface.java" />
+        <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanClassTwo.java" />
+        <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanClassOne.java" />
+        <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/TestClass.java" />
+        <option value="$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/main/Service.java" />
       </list>
     </option>
   </component>
@@ -129,10 +162,11 @@
     <option name="jreName" value="8.0" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1680" />
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -143,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,11 +211,35 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shj" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="muke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter4_autowired2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shj" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="muke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter4_autowired2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shj" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="muke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter4_autowired2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -223,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Service (4)">
+  <component name="RunManager" selected="Application.Service">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -263,20 +322,6 @@
       <module name="chapter3_init_destory" />
       <envs />
     </configuration>
-    <configuration name="Service (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.shj.main.Service" />
-      <module name="chapter3_autowiring" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shj.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Service (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shj.pojo.Service" />
       <module name="chapter3_test" />
@@ -308,6 +353,20 @@
     <configuration name="Service (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.shj.main.Service" />
       <module name="chapter4_autowired" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shj.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shj.main.Service" />
+      <module name="chapter4_autowired2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -352,18 +411,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Service (1)" />
       <item itemvalue="Application.Service (2)" />
       <item itemvalue="Application.Service (3)" />
       <item itemvalue="Application.Service (4)" />
+      <item itemvalue="Application.Service" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Service" />
         <item itemvalue="Application.Service (4)" />
         <item itemvalue="Application.Service (3)" />
         <item itemvalue="Application.Service (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Service (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -395,16 +454,20 @@
       <workItem from="1562054323231" duration="4444000" />
       <workItem from="1562065872963" duration="2931000" />
       <workItem from="1562486143183" duration="34000" />
+      <workItem from="1562637399534" duration="1000" />
+      <workItem from="1562637402719" duration="1000" />
+      <workItem from="1563804037794" duration="731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30666000" />
+    <option name="totallyTimeSpent" value="31399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="1680" y="23" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25213677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16997617" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -426,6 +489,7 @@
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32941177" />
+      <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -475,29 +539,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter2_ioc/src/main/resources/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3_scope/src/resource/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter3_init_destory/src/main/java/com/shj/pojo/ScopeBean.java" />
-    <entry file="file://$PROJECT_DIR$/chapter2_annotate/src/test/java/com/shj/test/TestIoC.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter2_annotate/src/test/java/com/shj/test/UnitTestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-307" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter3_init_destory/src/main/java/com/shj/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
@@ -803,24 +844,21 @@
     <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/MainBean.java" />
     <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/RequireBean.java" />
     <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/InjectBean.java" />
-    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/resource/spring-context.xml" />
     <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeInjectedBean.java" />
-    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/SpringDefineBean.java">
+    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/AutowiredCollectionBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="675">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/CollectionBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        <state relative-caret-position="756">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="e#238#239#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
@@ -834,10 +872,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/AutowiredCollectionBean.java">
+    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/SpringDefineBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/resource/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanClassTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/BeanClassOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/pojo/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4_autowired2/src/main/java/com/shj/main/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
