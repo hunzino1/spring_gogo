@@ -9,5 +9,6 @@ public class Service {
         ApplicationContext context = new ClassPathXmlApplicationContext("spring-context.xml");
         TestClass testClass = (TestClass) context.getBean("testClass");
         testClass.say();
+        testClass.say2();
     }
 }
