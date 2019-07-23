@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/chapter4_annotation/chapter4_annotation.iml" filepath="$PROJECT_DIR$/chapter4_annotation/chapter4_annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4_autowired/chapter4_autowired.iml" filepath="$PROJECT_DIR$/chapter4_autowired/chapter4_autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter4_autowired2/chapter4_autowired2.iml" filepath="$PROJECT_DIR$/chapter4_autowired2/chapter4_autowired2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheapter4_bean/cheapter4_bean.iml" filepath="$PROJECT_DIR$/cheapter4_bean/cheapter4_bean.iml" />
     </modules>
   </component>
 </project>
