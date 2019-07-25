@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34bb1128-5901-48db-93a0-c76a309f87fd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/cheapter4_bean/com/shj/pojo/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_scope/out/production/cheapter4_bean/com/shj/pojo/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/cheapter4_bean/com/shj/pojo/StoreConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_scope/out/production/cheapter4_bean/com/shj/pojo/StoreConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/cheapter4_bean/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_scope/out/production/cheapter4_bean/spring-context.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cheapter4_bean/src/main/resource/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter4_bean/src/main/resource/spring-context.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,14 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/resource/spring-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#759#772#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="351">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -46,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/JdbcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+            <state relative-caret-position="39">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#694#695#0" expanded="true" />
@@ -68,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/Service.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
@@ -198,11 +191,11 @@
         <option value="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/TestClass.java" />
         <option value="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/Service.java" />
         <option value="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/StoreConfig.java" />
-        <option value="$PROJECT_DIR$/cheapter4_bean/src/main/resource/spring-context.xml" />
         <option value="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/DriveManager.java" />
         <option value="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/Service.java" />
         <option value="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/jdbc.properties" />
         <option value="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/JdbcConfig.java" />
+        <option value="$PROJECT_DIR$/cheapter4_bean/src/main/resource/spring-context.xml" />
       </list>
     </option>
   </component>
@@ -490,12 +483,12 @@
       <workItem from="1563858685169" duration="788000" />
       <workItem from="1563975966205" duration="1270000" />
       <workItem from="1564031935865" duration="1971000" />
-      <workItem from="1564035425063" duration="690000" />
+      <workItem from="1564035425063" duration="891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39203000" />
+    <option name="totallyTimeSpent" value="39404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="2560" height="1417" extended-state="6" />
@@ -873,13 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/DriveManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -925,20 +911,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/resource/spring-context.xml">
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#759#772#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/DriveManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/JdbcConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        <state relative-caret-position="39">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#694#695#0" expanded="true" />
@@ -949,13 +942,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/Service.java">
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/resource/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="351">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
