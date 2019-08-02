@@ -4,9 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34bb1128-5901-48db-93a0-c76a309f87fd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/StoreConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/StoreConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="34bb1128-5901-48db-93a0-c76a309f87fd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,21 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/StoreConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="81">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="7" selection-end-line="32" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/Service.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -451,12 +449,12 @@
       <workItem from="1564035425063" duration="1062000" />
       <workItem from="1564462492653" duration="1057000" />
       <workItem from="1564630022479" duration="53000" />
-      <workItem from="1564733007070" duration="2127000" />
+      <workItem from="1564733007070" duration="2791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42812000" />
+    <option name="totallyTimeSpent" value="43476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="2560" height="1417" extended-state="6" />
@@ -471,7 +469,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.405283" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.405283" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39849058" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -915,24 +913,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/StoreConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/StoreConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="7" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
           </folding>
         </state>
       </provider>

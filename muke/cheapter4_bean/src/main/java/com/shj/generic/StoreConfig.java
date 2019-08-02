@@ -4,18 +4,20 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.ImportResource;
+import org.springframework.stereotype.Service;
 
-@Configuration
+//@Configuration
+@Service
 public class StoreConfig {
     @Autowired
     private Store<Integer> integerStore;
     @Autowired
     private Store<String> stringStore;
 
-    @Bean
-    public Store integerStore() {
-        return new IntegerStore();
-    }
+//    @Bean
+//    public Store integerStore() {
+//        return new IntegerStore();
+//    }
 
     /**
      * 注释之后
