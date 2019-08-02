@@ -16,10 +16,15 @@ public class StoreConfig {
     public Store integerStore() {
         return new IntegerStore();
     }
-    @Bean
-    public Store stringStore() {
-        return new StringStore();
-    }
+
+    /**
+     * 注释之后
+     * string也默认走了Integer，名称找不到估计按类型匹配了
+     */
+//    @Bean
+//    public Store stringStore() {
+//        return new StringStore();
+//    }
 
     public void testGeneric() {
         System.out.println("integerStore: " + integerStore.getClass().getName());
