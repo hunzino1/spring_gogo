@@ -9,4 +9,6 @@
     <!--<bean id="initXML" class="com.shj.pojo.InitXMLBean" init-method="init"></bean>-->
 
     <bean id="destroyBean" class="com.shj.pojo.DestroyBean"></bean>
+
+    <bean id="destroyXMLBean" class="com.shj.pojo.DestroyXMLBean" destroy-method="destroy"></bean>
 </beans>
