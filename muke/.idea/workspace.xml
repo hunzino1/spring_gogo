@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34bb1128-5901-48db-93a0-c76a309f87fd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/chapter3_autowiring/com/shj/pojo/AutowiringBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_scope/out/production/chapter3_autowiring/com/shj/pojo/AutowiringBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/chapter3_init_destory/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_scope/out/production/chapter3_init_destory/spring-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/chapter5_AOP/com/shj/aop/schema/advice/MoocAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_scope/out/production/chapter5_AOP/com/shj/aop/schema/advice/MoocAspect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/chapter5_AOP/com/shj/aop/schema/advice/biz/AspectBiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_scope/out/production/chapter5_AOP/com/shj/aop/schema/advice/biz/AspectBiz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/chapter5_AOP/com/shj/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_scope/out/production/chapter5_AOP/com/shj/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3_scope/out/production/cheapter4_bean/META-INF/cheapter4_bean.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5_aop/chapter5_AOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/cheapter5_AOP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5_aop/lib/aspectjweaver-1.6.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/lib/aspectjweaver-1.6.6.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advice/MoocAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/MoocAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter5_aop/src/main/resource/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/src/main/resource/spring-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/MoocAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/MoocAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheapter5_aop/src/main/resource/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cheapter5_aop/src/main/resource/spring-context.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/resource/spring-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="486">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -45,11 +34,7 @@
         <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/MoocAspect.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-              </folding>
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -57,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="216">
+              <caret line="8" column="7" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,11 +69,7 @@
         <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -110,9 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter4_annotation/src/main/java/com/shj/pojo/MemberBean.java" />
-        <option value="$PROJECT_DIR$/chapter4_annotation/src/main/java/com/shj/pojo/AnnotationBean.java" />
-        <option value="$PROJECT_DIR$/chapter4_annotation/src/main/java/com/shj/pojo/MyNameGenerator.java" />
         <option value="$PROJECT_DIR$/chapter4_annotation/src/main/java/com/shj/pojo/ScopeBean.java" />
         <option value="$PROJECT_DIR$/chapter4_annotation/src/main/java/com/shj/pojo/ScopeDefineBean.java" />
         <option value="$PROJECT_DIR$/chapter4_annotation/src/main/resource/spring-context.xml" />
@@ -161,6 +139,9 @@
         <option value="$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java" />
         <option value="$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/main/Main.java" />
         <option value="$PROJECT_DIR$/chapter5_aop/src/main/resource/spring-context.xml" />
+        <option value="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java" />
+        <option value="$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/MoocAspect.java" />
+        <option value="$PROJECT_DIR$/cheapter5_aop/src/main/resource/spring-context.xml" />
       </list>
     </option>
   </component>
@@ -238,6 +219,25 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="shj" type="462c0819:PsiDirectoryNode" />
+              <item name="advice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="muke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheapter5_aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shj" type="462c0819:PsiDirectoryNode" />
+              <item name="advice" type="462c0819:PsiDirectoryNode" />
+              <item name="biz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="muke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cheapter5_aop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shj" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,8 +251,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,16 +473,19 @@
       <workItem from="1564462492653" duration="1057000" />
       <workItem from="1564630022479" duration="53000" />
       <workItem from="1564733007070" duration="9588000" />
+      <workItem from="1565082979865" duration="1233000" />
+      <workItem from="1565093743505" duration="614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50273000" />
+    <option name="totallyTimeSpent" value="52120000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="23" width="2560" height="1417" extended-state="6" />
+    <frame x="1680" y="23" width="2560" height="1417" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17950754" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18189038" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -660,108 +663,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/StringStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/InterStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/Store.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/Organization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/repository/BaseRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/service/BaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/repository/OrganizationRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/service/OrganizationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/StringStore.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/InterStore.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/Store.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/Service.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/User.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/Organization.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/repository/BaseRepository.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/service/BaseService.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/repository/UserRepository.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/repository/OrganizationRepository.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/service/OrganizationService.java" />
     <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/jdbc/config/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -772,16 +685,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/StoreConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/pojo/StoreConfig.java" />
     <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/resource/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -823,93 +727,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/aspectj/biz/MoocBiz.java" />
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/aspectj/MoocAspect.java" />
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/aspectj/MoocMethod.java" />
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advice/Fit.java" />
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advice/FitImpl.java" />
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advisors/ConcurrentOperationExecutor.java" />
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advisors/Idempotent.java" />
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/api/introduction/Lockable.java" />
+    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/api/BizLogic.java" />
+    <entry file="file://$PROJECT_DIR$/cheapter5_aop/chapter5_AOP.iml" />
     <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/MoocAspect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java">
+    <entry file="file://$PROJECT_DIR$/cheapter5_aop/cheapter5_AOP.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/aspectj/biz/MoocBiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/aspectj/MoocAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/aspectj/MoocMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advice/Fit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advice/FitImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advisors/ConcurrentOperationExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/schema/advisors/Idempotent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/api/introduction/Lockable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter5_aop/src/main/java/com/shj/aop/api/BizLogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cheapter4_bean/src/main/java/com/shj/generic/IntegerStore.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -918,27 +754,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter5_aop/cheapter5_AOP.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter5_aop/chapter5_AOP.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/MoocAspect.java">
+    <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/aop/schema/advice/biz/AspectBiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-          </folding>
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/java/com/shj/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="216">
+          <caret line="8" column="7" selection-start-line="6" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -947,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cheapter5_aop/src/main/resource/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="486">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
