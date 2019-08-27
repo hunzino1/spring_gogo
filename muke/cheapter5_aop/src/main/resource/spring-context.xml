@@ -15,10 +15,10 @@
         <aop:aspect id="moocAspectAop" ref="moocAspect">
             <aop:pointcut expression="execution(* com.shj.aop.schema.advice.biz.*Biz.*(..))" id="moocPiontcut"/>
             <aop:before method="before" pointcut-ref="moocPiontcut"/>
-            <aop:after method="after" pointcut-ref="moocPiontcut"/>
-            <aop:after-returning method="returning" pointcut-ref="moocPiontcut"/>
-            <aop:after-throwing method="throwing" pointcut-ref="moocPiontcut"/>
-            <aop:around method="around" pointcut-ref="moocPiontcut" />
+<!--            <aop:after method="after" pointcut-ref="moocPiontcut"/>-->
+<!--            <aop:after-returning method="returning" pointcut-ref="moocPiontcut"/>-->
+<!--            <aop:after-throwing method="throwing" pointcut-ref="moocPiontcut"/>-->
+<!--            <aop:around method="around" pointcut-ref="moocPiontcut" />-->
         </aop:aspect>
     </aop:config>
 
